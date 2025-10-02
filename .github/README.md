@@ -2,12 +2,12 @@
 
 ## Autores / Contato
 
-* Bruna Furtado da Fonseca - [cestpassion](github/cestpassion)
-* Gustavo Henrique Rodrigues De Castro - [GhrCastro](github/GhrCastro)
+* Bruna Furtado da Fonseca - [cestpassion](https://github/cestpassion)
+* Gustavo Henrique Rodrigues De Castro - [GhrCastro](https://github/GhrCastro)
 
 ## Projeto do Arduino
 
-<img src="./Circuito.png" alt="Projeto do Arduino" style="max-width:600px; width:100%; height:auto;">
+<img src="./Circuito.png" alt="Projeto do Arduino" style="max-width:500px; width:100%; height:auto;">
 
 ## Descrição curta
 

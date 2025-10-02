@@ -7,7 +7,7 @@
 
 ## Projeto do Arduino
 
-<img src="./Circuito.png" alt="Projeto do Arduino" style="max-width:600px; width:100%; height:auto;">
+<img src="./Circuito.png" alt="Projeto do Arduino" style="max-width:500px; width:100%; height:auto;">
 
 ## Descrição curta
 
@@ -49,30 +49,7 @@ Implementação de uma ULA (ALU) de 4 bits simulada em um Arduino que recebe um 
 
 ## Tabela de instruções (S hex → operação)
 
-Cada operação é **bitwise** sobre os 4 bits de X (A) e Y (B). Resultado armazenado em W (4 bits).
-
-```
-S  | Operação (descrição)
----+---------------------
-0  | zeroL           -> W = 0x0
-1  | umL             -> W = 0xF (1111)
-2  | AonB            -> W = A OR (NOT B)
-3  | nAonB           -> W = (NOT A) OR (NOT B)
-4  | AeBn ( (A.B)' ) -> W = NOT (A AND B)
-5  | nB              -> W = NOT B
-6  | nA              -> W = NOT A
-7  | nAxnB           -> W = (NOT A) XOR (NOT B)
-8  | AxB (XOR)       -> W = A XOR B
-9  | copiaA          -> W = A
-A  | copiaB          -> W = B
-B  | AeB (AND)       -> W = A AND B
-C  | AenB (A.B')     -> W = A AND (NOT B)
-D  | nAeB (A'.B)     -> W = (NOT A) AND B
-E  | AoB (OR)        -> W = A OR B
-F  | nAeBn ( (A'.B)' )-> W = NOT ((NOT A) AND B)
-```
-
-(A tabela e a operação bitwise obedecem exatamente ao enunciado do trabalho). 
+<img src="./tabela.png" alt="" style="max-width:500px; width:100%; height:auto;">
 
 ---
 

@@ -2,8 +2,8 @@
 
 ## Autores / Contato
 
-* Bruna Furtado da Fonseca - [cestpassion](github/cestpassion)
-* Gustavo Henrique Rodrigues De Castro - [GhrCastro](github/GhrCastro)
+* Bruna Furtado da Fonseca - [cestpassion](https://github.com/cestpassion)
+* Gustavo Henrique Rodrigues De Castro - [GhrCastro](https://github.com/GhrCastro)
 
 ## Projeto do Arduino
 
